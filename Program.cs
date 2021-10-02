@@ -4,6 +4,7 @@ namespace ConsoleApp133
 {
     class Program
     {
+        // Simple calculator
         static void Main(string[] args)
         {
             var input = Console.ReadLine();
