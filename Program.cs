@@ -39,16 +39,5 @@ namespace ConsoleApp133
 
             return result;
         }
-
-
-
-
-
-
-
-
-
-
-
     }
 }
